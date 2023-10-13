@@ -41,11 +41,11 @@ you need to install docker engine, and be activated
 
 * build the docker image
 
-    * docker build -t phonebook_project .
+    * docker build -t subscription_service .
 
 * run your docker image
 
-    * docker run -p 8000:8000 phonebook_project
+    * docker run -p 8000:8000 subscription_service
 
 
 
