@@ -10,6 +10,15 @@
 
 * install the requirements (pip install -r requirements.txt)
 
+* install MySQL database and configure it on your machine or inside the virtual environment
+    after installing the MySQL server and run it successfuly add the DataBase configuration in the .env file as follows
+    * NAME: It indicates the name of the database we want to connect.
+    * USER: The MYSQL username is the one who has access to the database and manages it.
+    * PASSWORD: It is the password of the database. 
+    * HOST: It is indicated by “127.0.0.1”.
+    * PORT: “3306” that the MySQL database is accessible at hostname “0.0.1” and on port “3306”
+
+
 * create the database
 
     * python manage.py makemigrations
