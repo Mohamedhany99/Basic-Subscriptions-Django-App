@@ -32,9 +32,6 @@
 * run the application
     * python manage.py runserver
 
-## Dtabase Scheme Diagram
-* you can view the database scheme diagram in the project called my_database_diagram.png
-![database scheme diagram](my_database_diagram.png)
 
 ## Dockerization
 you need to install docker engine, and be activated
