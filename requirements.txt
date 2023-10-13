@@ -1,0 +1,12 @@
+Django==4.1.*
+djangorestframework==3.14.*
+djangorestframework-simplejwt
+django-cors-headers
+python-decouple==3.8
+django-filter
+python-decouple
+drf_spectacular
+bpython
+psycopg
+flake8
+pytest
